@@ -11,6 +11,10 @@ object Collections {
 
   arr
 
+  arr(2) = 22
+
+  arr
+
   val lst2 = 1 :: lst
 
   lst
